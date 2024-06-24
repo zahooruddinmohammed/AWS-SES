@@ -14,6 +14,8 @@ Ensure you have Node.js installed. You can download and install it from Node.js 
 
 ## Step 2: Create Project Directory
 Create a new project directory and navigate into it:
+![image](https://github.com/zahooruddinmohammed/AWS-SES/assets/130806627/0b8c4aed-9331-438b-b38e-a56b01346f52)
+
 
 ## Step 3: Initialize Node.js Project
 Initialize a new Node.js project:
@@ -32,6 +34,7 @@ Create a file named sendEmail.js
 ## Step 7: Run the Script to Send Email
 Execute the script to send an email:
 "node sendEmail.js"
+![image](https://github.com/zahooruddinmohammed/AWS-SES/assets/130806627/e4b57329-b371-4144-b05e-eb38a9c3d4d9)
 
 ## Step 8: Create Script to Create Email Template
 Create a file named createTemplate.js
@@ -39,6 +42,9 @@ Create a file named createTemplate.js
 ## Step 9: Run the Script to Create Email Template
 Execute the script to create the email template:
 "node createTemplate.js"
+![image](https://github.com/zahooruddinmohammed/AWS-SES/assets/130806627/7c8f8db8-6389-45ad-9eca-970c612503f4)
+![image](https://github.com/zahooruddinmohammed/AWS-SES/assets/130806627/c8e97e7e-8418-4fbf-9090-18203a022225)
+
 
 ## Summary
 Installed Node.js and initialized the project with necessary dependencies.
